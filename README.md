@@ -39,3 +39,5 @@ git remote -v
 git remote add origin https://github.com/mas-marmar/dosochka.git
 
 git push -u origin master
+
+npx create-strapi-app dosochka --quickstart
